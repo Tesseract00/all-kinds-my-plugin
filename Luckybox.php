@@ -36,7 +36,7 @@ class Main extends PluginBase implements Listener{
 
     	$this->getLogger()->notice("럭키박스 플러그인");
 
-    	$this->getLogger()->notice("Made by NLOG (nlog.kro.kr)");
+    	$this->getLogger()->notice("Made by Tesserect(tesserect.kro.kr)");
 
     	
 
